@@ -93,6 +93,7 @@ let
     (loadModule ./programs/mcfly.nix { })
     (loadModule ./programs/mercurial.nix { })
     (loadModule ./programs/mpv.nix { })
+    (loadModule ./programs/mpw.nix { })
     (loadModule ./programs/msmtp.nix { })
     (loadModule ./programs/mu.nix { })
     (loadModule ./programs/ncmpcpp.nix { })
